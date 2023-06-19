@@ -58,7 +58,7 @@
         android:text="Sign In" />
 
     <TextView
-        android:id="@+id/btntosignUp"
+        android:id="@+id/btntosignUpemployer"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
         android:gravity="center"
