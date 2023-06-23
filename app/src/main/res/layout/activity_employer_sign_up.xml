@@ -199,13 +199,13 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <Button
-            android:id="@+id/btnSignin"
+            android:id="@+id/btnSignup"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="100dp"
             android:layout_marginTop="30dp"
             android:textSize="30dp"
-            android:text="SIGN IN" />
+            android:text="SIGN UP" />
 
     </LinearLayout>
 </ScrollView>
